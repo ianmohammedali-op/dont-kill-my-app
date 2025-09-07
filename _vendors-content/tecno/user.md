@@ -1,3 +1,5 @@
+<img width="720" height="1600" alt="1000085312" src="https://github.com/user-attachments/assets/f40faf85-20b6-4473-85ea-bbc8cfa0c1bb" />
+![1000085192](https://github.com/user-attachments/assets/84edb95c-dd4a-48a1-aa1f-c6a23e6dc1e6)
 ---
 manufacturer:
     - tecno
